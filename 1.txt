@@ -1,1 +1,1 @@
-git clone https://github.com/tu_usuario/generador-reactividad-global.git
+git clone https://github.com/Roca-10/generador-reactividad-global
